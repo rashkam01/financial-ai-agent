@@ -1,0 +1,19 @@
+# Virtual environment
+venv/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Environment variables
+.env
+
+# Mac files
+.DS_Store
+
+# Vector databases
+vector_db/
+/storage/vector_db/
+
+# Logs
+*.log
